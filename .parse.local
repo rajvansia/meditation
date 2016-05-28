@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "meditation"
+    },
+    "meditation": {
+      "applicationId": "lqDP909FyNG8fDF29nW7cFE8JLZ62q8sUswTPJ9A"
+    }
+  }
+}
